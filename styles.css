@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: rgb( 0, 255, 255);
+}
+body {
+  background-color: #1B4F72;
+  color: white;
+}
+#a {
+  padding: 4px;
+}
+#b {
+  padding: 4px;
+}
+#c {
+  padding: 4px;
+}
+p {
+  padding: 4px;
+}
