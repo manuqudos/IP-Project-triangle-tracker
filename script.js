@@ -1,4 +1,4 @@
- function triangleTracker() {
+function triangleTracker() {
  var lengthOfSideA = parseInt(document.getElementById("a").value);
  var lengthOfSideB = parseInt(document.getElementById("b").value);
  var lengthOfSideC = parseInt(document.getElementById("c").value);
