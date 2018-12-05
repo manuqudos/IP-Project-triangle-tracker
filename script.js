@@ -12,7 +12,7 @@ function triangleTracker() {
  else if (lengthOfSideA === lengthOfSideB || lengthOfSideA === lengthOfSideC || lengthOfSideB === lengthOfSideC ) {
    alert("An Isosceles Triangle");
  }
- else if ((lengthOfSideA+lengthOfSideB) <= (lengthOfSideC) || (lengthOfSideA+lengthOfSideC) <= (lengthOfSideB) || (lengthOfSideB+c)<= (lengthOfSideA)) {
+ else if ((lengthOfSideA+lengthOfSideB) <= (lengthOfSideC) || (lengthOfSideA+lengthOfSideC) <= (lengthOfSideB) || (lengthOfSideB+lengthOfSideC)<= (lengthOfSideA)) {
    alert("Not a Triangle");
  }
  else  {
